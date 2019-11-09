@@ -17,3 +17,6 @@ target/
 ### Java ###
 *.class
 *.jar
+
+### others ###
+*.log
