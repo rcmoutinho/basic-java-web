@@ -1,1 +1,6 @@
 *.asc
+*.log
+.git
+.gitignore
+**/.DS_Store
+.dockerignore
